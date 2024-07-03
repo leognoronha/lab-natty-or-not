@@ -1,51 +1,24 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Entrevista Fictícia Pós-Jogo na Champions League
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Neste projeto, criei um jogador de futebol fictício do Chelsea que dá uma entrevista após uma partida na Champions League. Utilizando tecnologias de IA generativas, desenvolvi uma narrativa realista para a entrevista, simulando uma situação verossímil e envolvente.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **GPT-4**: Utilizado para gerar o diálogo e a narrativa da entrevista.
+- **DALL-E**: Para criar imagens realistas do jogador durante a entrevista.
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. **Desenvolvimento do Personagem**: Criei um perfil detalhado do jogador, incluindo nome, histórico, características pessoais e habilidades no futebol.
+2. **Geração da Entrevista**: Utilizei o GPT-4 para elaborar perguntas e respostas que refletissem a personalidade e a performance do jogador no jogo.
+3. **Criação Visual**: Com o DALL-E, gerei imagens do jogador em diferentes ângulos e expressões durante a entrevista.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- **Texto da Entrevista**: Uma transcrição detalhada da entrevista do jogador.
+- **Imagens**: Várias imagens realistas do jogador durante a entrevista.
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+### Prompt da imagem
+A Chelsea football player giving an interview after a Champions League match. He has blonde hair and is wearing a blue Chelsea jersey with the team's
 
-### Exemplos e Insigths
+## 💭 Reflexão
+Criar essa entrevista fictícia foi um desafio interessante. A utilização de IA para gerar conteúdo realista mostrou-se extremamente eficaz, mas também destacou a necessidade de uma supervisão humana para garantir a coerência e a naturalidade das respostas. Esse projeto não só demonstrou o poder das tecnologias generativas, mas também a importância do toque humano na criação de narrativas envolventes.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
